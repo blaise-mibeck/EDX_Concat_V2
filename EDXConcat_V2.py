@@ -4,6 +4,7 @@ from tkinter import filedialog
 import pandas as pd
 from tkinter import ttk
 import re
+import numpy as np
 
 class Model:
     def __init__(self):
